@@ -9,3 +9,4 @@ It's a repository that studies Java coding tests and organizes them.
      
     - [조건문](https://github.com/hyunsu4020/algorithm-java/tree/main/%EC%A1%B0%EA%B1%B4%EB%AC%B8)
         - [오븐 시계](https://github.com/hyunsu4020/algorithm-java/blob/main/%EC%A1%B0%EA%B1%B4%EB%AC%B8/2525.java)
+        - [주사위 세개](https://github.com/hyunsu4020/algorithm-java/blob/main/%EC%A1%B0%EA%B1%B4%EB%AC%B8/2525.java)
