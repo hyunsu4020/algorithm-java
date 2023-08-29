@@ -1,0 +1,30 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.StringTokenizer;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        // 입력 스트림을 위한 BufferedReader 객체 생성
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        int t, a, b, sum = 0; // 테스트 케이스 개수, 정수 변수, 합계 변수 초기화
+        StringTokenizer st;
+        
+        t = Integer.parseInt(br.readLine()); // 테스트 케이스 개수 입력
+        
+        for (int i = 0; i < t; i++) { // 테스트 케이스 수만큼 반복
+        	// 입력 라인을 구분하는 StringTokenizer 객체 생성
+        	st = new StringTokenizer(br.readLine());
+            a = Integer.parseInt(st.nextToken()); // 첫 번째 정수 입력
+            b = Integer.parseInt(st.nextToken()); // 두 번째 정수 입력
+            sum = a + b; // 두 정수의 합계 계산
+            bw.write(Integer.toString(sum) + "\n");	// 정수를 출력할 때 문자열로 변환하여 출력하고 줄바꿈 추가
+        }
+        
+        bw.flush(); // 버퍼에 있는 내용을 출력 스트림으로 강제로 내보냄
+        // 또는 bw.close(); 사용해도 됨. 버퍼에 있는 내용을 출력하면서 스트림을 닫음
+    }
+}
