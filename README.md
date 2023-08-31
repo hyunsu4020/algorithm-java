@@ -16,3 +16,5 @@ It's a repository that studies Java coding tests and organizes them.
         - [코딩은 체육과목 입니다](https://github.com/hyunsu4020/algorithm-java/blob/main/%EB%B0%98%EB%B3%B5%EB%AC%B8/25314.java)
         - [빠른 A+B](https://github.com/hyunsu4020/algorithm-java/blob/main/%EB%B0%98%EB%B3%B5%EB%AC%B8/15552.java)
         - [A+B - 7](https://github.com/hyunsu4020/algorithm-java/blob/main/%EB%B0%98%EB%B3%B5%EB%AC%B8/11021.java)
+        - [별 찍기 - 2](https://github.com/hyunsu4020/algorithm-java/blob/main/%EB%B0%98%EB%B3%B5%EB%AC%B8/2439.java)
+        - [별 찍기 - 2(StringBuilder)](https://github.com/hyunsu4020/algorithm-java/blob/main/%EB%B0%98%EB%B3%B5%EB%AC%B8/2439(StringBuilder).java)
