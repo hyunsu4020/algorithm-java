@@ -18,4 +18,5 @@ It's a repository that studies Java coding tests and organizes them.
         - [A+B - 7](https://github.com/hyunsu4020/algorithm-java/blob/main/%EB%B0%98%EB%B3%B5%EB%AC%B8/11021.java)
         - [별 찍기 - 2](https://github.com/hyunsu4020/algorithm-java/blob/main/%EB%B0%98%EB%B3%B5%EB%AC%B8/2439.java)
         - [별 찍기 - 2(StringBuilder)](https://github.com/hyunsu4020/algorithm-java/blob/main/%EB%B0%98%EB%B3%B5%EB%AC%B8/2439(StringBuilder).java)
-        - [A+B - 5](https://github.com/hyunsu4020/algorithm-java/blob/main/%EB%B0%98%EB%B3%B5%EB%AC%B8/10952.java)
+        - [A+B - 5(IOException)](https://github.com/hyunsu4020/algorithm-java/blob/main/%EB%B0%98%EB%B3%B5%EB%AC%B8/10952(IOException).java)
+        - [A+B - 5(try-catch)](https://github.com/hyunsu4020/algorithm-java/blob/main/%EB%B0%98%EB%B3%B5%EB%AC%B8/10952(try-catch).java)
